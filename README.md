@@ -6,3 +6,4 @@ Projeto com um conjunto de algoritmos para resolver alguns problemas matemático
 
 ## Método de aproximação da Bisseção
 ## Método de aproximação do Ponto Fixo
+## Método de aproximação da Secante
