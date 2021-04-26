@@ -1,6 +1,11 @@
 # Mathematical Algorithms
 Project with a set of algorithms to solve some numerical calculations problems.
 
+## Bisection Method
+## Fixed Point Method
+## Secant Method
+## Newton-Raphson Method
+
 ---
 
 # Algoritmos Matemáticos
