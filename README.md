@@ -1,8 +1,10 @@
 # Mathematical Algorithms
-Project with a set of algorithms to solve some numerical calculations.
+Project with a set of algorithms to solve some numerical calculations problems.
+
+---
 
 # Algoritmos Matemáticos
-Projeto com um conjunto de algoritmos para resolver alguns problemas matemáticos como multiplicação de matrizes e cálculos numéricos.
+Projeto com um conjunto de algoritmos para resolver alguns problemas de cálculos numéricos.
 
 ## Método de aproximação da Bisseção
 ## Método de aproximação do Ponto Fixo
