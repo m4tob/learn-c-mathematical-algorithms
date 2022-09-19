@@ -1,4 +1,4 @@
-# Mathematical Algorithms
+# Learn - Mathematical Algorithms
 Project with a set of algorithms to solve some numerical calculations problems.
 
 ## Bisection Method
